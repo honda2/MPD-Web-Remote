@@ -1,3 +1,10 @@
+I have plans to extend on this..
++ add directory structure support
++ add more visual interactions instead of popup-alerts
++ possibly rework for jquery-mobile
++ leave as simple as possibe
+
+Original comments:
 +==============================================================================+
 | Remote WebApp                                                                |
 | Version 1.0                                                                  |
